@@ -212,9 +212,9 @@ open_to_work: true
 <!-- Snake Contribution Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jision/jision/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jision/jision/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/jision/jision/output/github-snake-dark.svg" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jision/jision/main/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jision/jision/main/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jision/jision/main/output/github-snake-dark.svg" width="95%" />
   </picture>
 </div>
 
