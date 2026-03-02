@@ -108,6 +108,78 @@ def _format_event(event):
     }
 
 
+def fetch_user_repos(username, token=None):
+    """Fetch all public repos for a user (paginated)."""
+    headers = {"Accept": "application/vnd.github+json"}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    repos = []
+    page = 1
+    while True:
+        resp = requests.get(
+            f"{GITHUB_API_BASE}/users/{username}/repos",
+            headers=headers,
+            params={"per_page": 100, "page": page, "type": "owner"},
+        )
+        resp.raise_for_status()
+        batch = resp.json()
+        if not batch:
+            break
+        repos.extend(batch)
+        page += 1
+    return repos
+
+
+def compute_top_languages(repos, token=None, max_langs=8):
+    """Aggregate language bytes across repos and return sorted list with percentages."""
+    headers = {"Accept": "application/vnd.github+json"}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    lang_bytes = {}
+    for repo in repos:
+        if repo.get("fork"):
+            continue
+        langs_url = repo.get("languages_url")
+        if not langs_url:
+            continue
+        try:
+            resp = requests.get(langs_url, headers=headers)
+            resp.raise_for_status()
+            for lang, nbytes in resp.json().items():
+                lang_bytes[lang] = lang_bytes.get(lang, 0) + nbytes
+        except requests.RequestException:
+            continue
+
+    total = sum(lang_bytes.values()) or 1
+    sorted_langs = sorted(lang_bytes.items(), key=lambda x: x[1], reverse=True)[:max_langs]
+    return [
+        {"name": name, "percent": round(nbytes / total * 100, 1)}
+        for name, nbytes in sorted_langs
+    ]
+
+
+def fetch_repo_details(owner, repo_name, token=None):
+    """Fetch single repo metadata for featured project cards."""
+    headers = {"Accept": "application/vnd.github+json"}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    resp = requests.get(f"{GITHUB_API_BASE}/repos/{owner}/{repo_name}", headers=headers)
+    resp.raise_for_status()
+    data = resp.json()
+    return {
+        "name": data.get("name", repo_name),
+        "full_name": data.get("full_name", f"{owner}/{repo_name}"),
+        "description": data.get("description", ""),
+        "language": data.get("language", ""),
+        "stars": data.get("stargazers_count", 0),
+        "forks": data.get("forks_count", 0),
+        "url": data.get("html_url", f"https://github.com/{owner}/{repo_name}"),
+    }
+
+
 def _time_ago(iso_timestamp):
     """Convert ISO timestamp to human-readable relative time."""
     if not iso_timestamp:

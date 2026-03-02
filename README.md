@@ -43,7 +43,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"Your prompts deserve the same respect as your code."*
+> *"Complexity is the enemy of reliability."*
 
 </td>
 <td width="50%" valign="top">
@@ -185,13 +185,23 @@ open_to_work: true
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
-<a href="https://github.com/jision">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jision&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&show=reviews,prs_merged" alt="GitHub Stats">
-</a>
-&nbsp;
-<a href="https://github.com/jision">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jision&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages">
-</a>
+
+<img src="https://img.shields.io/badge/Public_Repos-46-58a6ff?style=flat-square&logo=github&logoColor=white" alt="Repos">
+<img src="https://img.shields.io/github/followers/jision?label=Followers&style=flat-square&logo=github&logoColor=white&color=58a6ff" alt="Followers">
+<img src="https://img.shields.io/badge/Following-6-58a6ff?style=flat-square&logo=github&logoColor=white" alt="Following">
+
+</div>
+
+<div align="center">
+<h4>Top Languages (by repo bytes)</h4>
+
+<img src="https://img.shields.io/badge/PHP-39.3%25-58a6ff?style=flat-square" alt="PHP">
+<img src="https://img.shields.io/badge/Python-27.9%25-58a6ff?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-17.2%25-58a6ff?style=flat-square" alt="JavaScript">
+<img src="https://img.shields.io/badge/CSS-14.0%25-58a6ff?style=flat-square" alt="CSS">
+<img src="https://img.shields.io/badge/HTML-0.9%25-58a6ff?style=flat-square" alt="HTML">
+<img src="https://img.shields.io/badge/Shell-0.6%25-58a6ff?style=flat-square" alt="Shell">
+
 </div>
 
 <br>
@@ -218,13 +228,6 @@ open_to_work: true
   </picture>
 </div>
 
-<br>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jision&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="90%">
-</div>
-
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning.png" width="30"> &nbsp;Recent Activity
@@ -247,87 +250,52 @@ open_to_work: true
   <td align="center">🌱</td>
   <td>Created branch `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>5 hours ago</sub></td>
+  <td><sub>6 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>22 hours ago</sub></td>
+  <td><sub>23 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Merged PR #7</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>22 hours ago</sub></td>
+  <td><sub>23 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #7</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>22 hours ago</sub></td>
+  <td><sub>23 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `comprehensive-coverage`</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>22 hours ago</sub></td>
+  <td><sub>23 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>22 hours ago</sub></td>
+  <td><sub>23 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Merged PR #6</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>22 hours ago</sub></td>
+  <td><sub>23 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #6</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>22 hours ago</sub></td>
+  <td><sub>23 hours ago</sub></td>
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="30"> &nbsp;Latest from Medium
-
-<div align="center">
-
-<a href="https://medium.com/@jision/we-solved-release-engineering-for-code-twenty-years-ago-we-forgot-to-solve-it-for-ai-b3b043964d16?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/0" alt="We Solved Release Engineering for Code Twenty Years Ago. We Forgot to Solve It for AI." width="47%">
-</a>
-&nbsp;<a href="https://medium.com/@jision/the-hidden-utf-trap-in-data-pipelines-why-spark-fails-on-perfectly-fine-files-eeb8ac3ec8b1?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/1" alt="The Hidden UTF Trap in Data Pipelines: Why Spark Fails on Perfectly Fine Files" width="47%">
-</a>
-<br><br><a href="https://medium.com/@jision/the-subtle-divide-when-ai-helps-vs-when-ai-manages-your-workflow-81f1210187bc?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/2" alt="The Subtle Divide: When AI ‘Helps’ vs. When AI ‘Manages’ Your Workflow" width="47%">
-</a>
-&nbsp;<a href="https://medium.com/@jision/stop-picking-frameworks-start-classifying-workflows-taxonomy-of-ai-agents-patterns-8ab304b37161?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/3" alt="Stop Picking Frameworks, Start Classifying Workflows-Taxonomy of AI Agents Patterns" width="47%">
-</a>
-<br><br><a href="https://medium.com/@jision/i-built-promptops-git-native-prompt-management-for-production-llm-workflows-ae49d1faa628?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/4" alt="I Built PromptOps: Git-Native Prompt Management for Production LLM Workflows" width="47%">
-</a>
-<br><br>
-</div>
-
-<details>
-<summary>&nbsp;<b>All articles</b>&nbsp; <sup>(click to expand)</sup></summary>
-<br>
-
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**We Solved Release Engineering for Code Twenty Years Ago. We Forgot to Solve It for AI.**](https://medium.com/@jision/we-solved-release-engineering-for-code-twenty-years-ago-we-forgot-to-solve-it-for-ai-b3b043964d16?source=rss-d6eceb646d72------2) | <sub>Sun, 01 Mar 2026 18:02:38 GMT</sub> |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Hidden UTF Trap in Data Pipelines: Why Spark Fails on Perfectly Fine Files**](https://medium.com/@jision/the-hidden-utf-trap-in-data-pipelines-why-spark-fails-on-perfectly-fine-files-eeb8ac3ec8b1?source=rss-d6eceb646d72------2) | <sub>Thu, 16 Oct 2025 04:37:08 GMT</sub> |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Subtle Divide: When AI ‘Helps’ vs. When AI ‘Manages’ Your Workflow**](https://medium.com/@jision/the-subtle-divide-when-ai-helps-vs-when-ai-manages-your-workflow-81f1210187bc?source=rss-d6eceb646d72------2) | <sub>Wed, 01 Oct 2025 13:30:32 GMT</sub> |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**Stop Picking Frameworks, Start Classifying Workflows-Taxonomy of AI Agents Patterns**](https://medium.com/@jision/stop-picking-frameworks-start-classifying-workflows-taxonomy-of-ai-agents-patterns-8ab304b37161?source=rss-d6eceb646d72------2) | <sub>Mon, 18 Aug 2025 07:53:20 GMT</sub> |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**I Built PromptOps: Git-Native Prompt Management for Production LLM Workflows**](https://medium.com/@jision/i-built-promptops-git-native-prompt-management-for-production-llm-workflows-ae49d1faa628?source=rss-d6eceb646d72------2) | <sub>Tue, 08 Jul 2025 04:21:11 GMT</sub> |
-
-</details>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
@@ -335,15 +303,34 @@ open_to_work: true
 
 <div align="center">
 
-<a href="https://github.com/llmhq-hub/promptops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=llmhq-hub&repo=promptops&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="promptops">
-</a>
-&nbsp;<a href="https://github.com/llmhq-hub/releaseops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=llmhq-hub&repo=releaseops&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="releaseops">
-</a>
-<br><br>
+| Project | Description | Language | Stars | Forks |
+|---------|-------------|----------|-------|-------|
+| [**promptops**](https://github.com/llmhq-hub/promptops) | Git-native prompt management and testing framework for production LLM workflows | ![Python](https://img.shields.io/badge/-Python-58a6ff?style=flat-square) | ![Stars](https://img.shields.io/github/stars/llmhq-hub/promptops?style=flat-square&color=58a6ff) | ![Forks](https://img.shields.io/github/forks/llmhq-hub/promptops?style=flat-square&color=58a6ff) |
+| [**releaseops**](https://github.com/llmhq-hub/releaseops) | Release engineering infrastructure for AI behavior - bundle, promote, evaluate, and replay agent behavior artifacts  | ![Python](https://img.shields.io/badge/-Python-58a6ff?style=flat-square) | ![Stars](https://img.shields.io/github/stars/llmhq-hub/releaseops?style=flat-square&color=58a6ff) | ![Forks](https://img.shields.io/github/forks/llmhq-hub/releaseops?style=flat-square&color=58a6ff) |
+
 </div>
 
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"> &nbsp;LinkedIn
+
+<div align="center">
+
+**Software Architect | LLMOps & AI Engineering | Data Platform Builder**
+
+> *Building production-grade LLM tooling and agentic AI systems.*
+
+<img src="https://img.shields.io/badge/-LLMOps_&_AI_Engineering-58a6ff?style=flat-square" alt="LLMOps & AI Engineering">
+<img src="https://img.shields.io/badge/-Data_Platform_Architecture-58a6ff?style=flat-square" alt="Data Platform Architecture">
+<img src="https://img.shields.io/badge/-Cloud_Infrastructure_%28AWS%29-58a6ff?style=flat-square" alt="Cloud Infrastructure (AWS)">
+<img src="https://img.shields.io/badge/-Open_Source_Contributor-58a6ff?style=flat-square" alt="Open Source Contributor">
+
+<br><br>
+<a href="https://linkedin.com/in/prasenjitchowdhury">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
@@ -357,7 +344,7 @@ open_to_work: true
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>
-  <strong>Last updated:</strong> March 02, 2026 10:39 UTC<br>
+  <strong>Last updated:</strong> March 02, 2026 11:11 UTC<br>
   Built with Python & Jinja2 | Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 

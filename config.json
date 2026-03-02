@@ -88,6 +88,18 @@
     "website": ""
   },
 
+  "linkedin": {
+    "headline": "Software Architect | LLMOps & AI Engineering | Data Platform Builder",
+    "summary": "Building production-grade LLM tooling and agentic AI systems.",
+    "profile_url": "https://linkedin.com/in/prasenjitchowdhury",
+    "highlights": [
+      "LLMOps & AI Engineering",
+      "Data Platform Architecture",
+      "Cloud Infrastructure (AWS)",
+      "Open Source Contributor"
+    ]
+  },
+
   "theme": {
     "accent": "58a6ff",
     "bg": "0d1117",
