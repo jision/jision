@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=230&section=header&text=prasenjit chowdhury&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=Software%20Architect%20%7C%20LLMOps%20%26%20AI%20Engineering%20%7C%20Data%20Platform%20Builder&descSize=17&descColor=c9d1d9&descAlignY=52" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=230&section=header&text=prasenjit%20chowdhury&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=Software%20Architect%20%7C%20LLMOps%20%26%20AI%20Engineering%20%7C%20Data%20Platform%20Builder&descSize=17&descColor=c9d1d9&descAlignY=52" width="100%" alt="Header" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/jision">
@@ -18,6 +18,9 @@
 <img src="https://komarev.com/ghpvc/?username=jision&style=for-the-badge&color=0d1117&label=VISITORS&labelColor=161b22" alt="Profile Views">
 <a href="https://medium.com/@jision">
   <img src="https://img.shields.io/badge/Medium-Articles-0d1117?style=for-the-badge&logo=medium&logoColor=white&labelColor=161b22" alt="Medium">
+</a>
+<a href="https://linkedin.com/in/prasenjitchowdhury">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn">
 </a>
 
 </div>
