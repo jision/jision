@@ -48,36 +48,38 @@
       {"name": "JavaScript", "logo": "javascript"},
       {"name": "TypeScript", "logo": "typescript"},
       {"name": "PHP", "logo": "php"},
-      {"name": "Go", "logo": "go"},
-      {"name": "Dart", "logo": "dart"}
+      {"name": "Node.js", "logo": "nodedotjs"}
     ],
     "ai_and_data": [
       {"name": "LangChain", "logo": "langchain"},
+      {"name": "LlamaIndex", "logo": "llamaindex"},
       {"name": "Apache Spark", "logo": "apachespark"},
+      {"name": "Apache Kafka", "logo": "apachekafka"},
+      {"name": "Apache Airflow", "logo": "apacheairflow"},
       {"name": "OpenAI", "logo": "openai"},
-      {"name": "Anthropic", "logo": "anthropic"},
-      {"name": "Jupyter", "logo": "jupyter"}
+      {"name": "Anthropic", "logo": "anthropic"}
     ],
     "cloud": [
       {"name": "AWS", "logo": "amazonwebservices"},
       {"name": "Docker", "logo": "docker"},
       {"name": "Kubernetes", "logo": "kubernetes"},
+      {"name": "Helm", "logo": "helm"},
       {"name": "Terraform", "logo": "terraform"},
       {"name": "GitHub Actions", "logo": "githubactions"}
     ],
     "data": [
+      {"name": "Apache Iceberg", "logo": "apache"},
+      {"name": "Trino", "logo": "trino"},
+      {"name": "Athena", "logo": "amazonwebservices"},
       {"name": "PostgreSQL", "logo": "postgresql"},
-      {"name": "MongoDB", "logo": "mongodb"},
-      {"name": "Redis", "logo": "redis"},
+      {"name": "DynamoDB", "logo": "amazondynamodb"},
       {"name": "Elasticsearch", "logo": "elasticsearch"}
     ],
     "tools": [
       {"name": "Git", "logo": "git"},
       {"name": "Linux", "logo": "linux"},
       {"name": "FastAPI", "logo": "fastapi"},
-      {"name": "Laravel", "logo": "laravel"},
-      {"name": "React", "logo": "react"},
-      {"name": "Flutter", "logo": "flutter"}
+      {"name": "React", "logo": "react"}
     ]
   },
 

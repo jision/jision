@@ -89,10 +89,7 @@ open_to_work: true
   <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=58a6ff" alt="PHP">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=58a6ff" alt="Go">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=58a6ff" alt="Dart">
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58a6ff" alt="Node.js">
 </a>
 </div>
 <br>
@@ -104,16 +101,22 @@ open_to_work: true
   <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=58a6ff" alt="LangChain">
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logo=llamaindex&logoColor=58a6ff" alt="LlamaIndex">
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/Apache_Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=58a6ff" alt="Apache Spark">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Apache_Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=58a6ff" alt="Apache Kafka">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Apache_Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=58a6ff" alt="Apache Airflow">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff" alt="OpenAI">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Anthropic-0d1117?style=for-the-badge&logo=anthropic&logoColor=58a6ff" alt="Anthropic">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=58a6ff" alt="Jupyter">
 </a>
 </div>
 <br>
@@ -131,6 +134,9 @@ open_to_work: true
   <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=58a6ff" alt="Kubernetes">
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/Helm-0d1117?style=for-the-badge&logo=helm&logoColor=58a6ff" alt="Helm">
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=58a6ff" alt="Terraform">
 </a>
 <a href="#">
@@ -143,13 +149,19 @@ open_to_work: true
 <h4>Data & Storage</h4>
 
 <a href="#">
+  <img src="https://img.shields.io/badge/Apache Iceberg-0d1117?style=for-the-badge&logo=apache&logoColor=58a6ff" alt="Apache Iceberg">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Trino-0d1117?style=for-the-badge&logo=trino&logoColor=58a6ff" alt="Trino">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Athena-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=58a6ff" alt="Athena">
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff" alt="PostgreSQL">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=58a6ff" alt="MongoDB">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=58a6ff" alt="Redis">
+  <img src="https://img.shields.io/badge/DynamoDB-0d1117?style=for-the-badge&logo=amazondynamodb&logoColor=58a6ff" alt="DynamoDB">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Elasticsearch-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=58a6ff" alt="Elasticsearch">
@@ -170,13 +182,7 @@ open_to_work: true
   <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=58a6ff" alt="FastAPI">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=58a6ff" alt="Laravel">
-</a>
-<a href="#">
   <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=58a6ff" alt="React">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=58a6ff" alt="Flutter">
 </a>
 </div>
 
@@ -195,11 +201,11 @@ open_to_work: true
 <div align="center">
 <h4>Top Languages (by repo bytes)</h4>
 
-<img src="https://img.shields.io/badge/PHP-38.1%25-58a6ff?style=flat-square" alt="PHP">
-<img src="https://img.shields.io/badge/Python-30.3%25-58a6ff?style=flat-square" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-16.7%25-58a6ff?style=flat-square" alt="JavaScript">
-<img src="https://img.shields.io/badge/CSS-13.5%25-58a6ff?style=flat-square" alt="CSS">
-<img src="https://img.shields.io/badge/HTML-0.8%25-58a6ff?style=flat-square" alt="HTML">
+<img src="https://img.shields.io/badge/PHP-39.3%25-58a6ff?style=flat-square" alt="PHP">
+<img src="https://img.shields.io/badge/Python-28.0%25-58a6ff?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-17.2%25-58a6ff?style=flat-square" alt="JavaScript">
+<img src="https://img.shields.io/badge/CSS-14.0%25-58a6ff?style=flat-square" alt="CSS">
+<img src="https://img.shields.io/badge/HTML-0.9%25-58a6ff?style=flat-square" alt="HTML">
 <img src="https://img.shields.io/badge/Shell-0.6%25-58a6ff?style=flat-square" alt="Shell">
 
 </div>
@@ -238,7 +244,7 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>just now</sub></td>
+  <td><sub>8 minutes ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -296,41 +302,6 @@ open_to_work: true
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="30"> &nbsp;Latest from Medium
-
-<div align="center">
-
-<a href="https://medium.com/@jision/we-solved-release-engineering-for-code-twenty-years-ago-we-forgot-to-solve-it-for-ai-b3b043964d16?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/0" alt="We Solved Release Engineering for Code Twenty Years Ago. We Forgot to Solve It for AI." width="47%">
-</a>
-&nbsp;<a href="https://medium.com/@jision/the-hidden-utf-trap-in-data-pipelines-why-spark-fails-on-perfectly-fine-files-eeb8ac3ec8b1?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/1" alt="The Hidden UTF Trap in Data Pipelines: Why Spark Fails on Perfectly Fine Files" width="47%">
-</a>
-<br><br><a href="https://medium.com/@jision/the-subtle-divide-when-ai-helps-vs-when-ai-manages-your-workflow-81f1210187bc?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/2" alt="The Subtle Divide: When AI ‘Helps’ vs. When AI ‘Manages’ Your Workflow" width="47%">
-</a>
-&nbsp;<a href="https://medium.com/@jision/stop-picking-frameworks-start-classifying-workflows-taxonomy-of-ai-agents-patterns-8ab304b37161?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/3" alt="Stop Picking Frameworks, Start Classifying Workflows-Taxonomy of AI Agents Patterns" width="47%">
-</a>
-<br><br><a href="https://medium.com/@jision/i-built-promptops-git-native-prompt-management-for-production-llm-workflows-ae49d1faa628?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/4" alt="I Built PromptOps: Git-Native Prompt Management for Production LLM Workflows" width="47%">
-</a>
-<br><br>
-</div>
-
-<details>
-<summary>&nbsp;<b>All articles</b>&nbsp; <sup>(click to expand)</sup></summary>
-<br>
-
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**We Solved Release Engineering for Code Twenty Years Ago. We Forgot to Solve It for AI.**](https://medium.com/@jision/we-solved-release-engineering-for-code-twenty-years-ago-we-forgot-to-solve-it-for-ai-b3b043964d16?source=rss-d6eceb646d72------2) | <sub>Sun, 01 Mar 2026 18:02:38 GMT</sub> |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Hidden UTF Trap in Data Pipelines: Why Spark Fails on Perfectly Fine Files**](https://medium.com/@jision/the-hidden-utf-trap-in-data-pipelines-why-spark-fails-on-perfectly-fine-files-eeb8ac3ec8b1?source=rss-d6eceb646d72------2) | <sub>Thu, 16 Oct 2025 04:37:08 GMT</sub> |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Subtle Divide: When AI ‘Helps’ vs. When AI ‘Manages’ Your Workflow**](https://medium.com/@jision/the-subtle-divide-when-ai-helps-vs-when-ai-manages-your-workflow-81f1210187bc?source=rss-d6eceb646d72------2) | <sub>Wed, 01 Oct 2025 13:30:32 GMT</sub> |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**Stop Picking Frameworks, Start Classifying Workflows-Taxonomy of AI Agents Patterns**](https://medium.com/@jision/stop-picking-frameworks-start-classifying-workflows-taxonomy-of-ai-agents-patterns-8ab304b37161?source=rss-d6eceb646d72------2) | <sub>Mon, 18 Aug 2025 07:53:20 GMT</sub> |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**I Built PromptOps: Git-Native Prompt Management for Production LLM Workflows**](https://medium.com/@jision/i-built-promptops-git-native-prompt-management-for-production-llm-workflows-ae49d1faa628?source=rss-d6eceb646d72------2) | <sub>Tue, 08 Jul 2025 04:21:11 GMT</sub> |
-
-</details>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
@@ -340,8 +311,8 @@ open_to_work: true
 
 | Project | Description | Language | Stars | Forks |
 |---------|-------------|----------|-------|-------|
-| [**promptops**](https://github.com/llmhq-hub/promptops) | Git-native prompt management and testing framework for production LLM workflows | ![Python](https://img.shields.io/badge/-Python-58a6ff?style=flat-square) | ![Stars](https://img.shields.io/github/stars/llmhq-hub/promptops?style=flat-square&color=58a6ff) | ![Forks](https://img.shields.io/github/forks/llmhq-hub/promptops?style=flat-square&color=58a6ff) |
-| [**releaseops**](https://github.com/llmhq-hub/releaseops) | Release engineering infrastructure for AI behavior - bundle, promote, evaluate, and replay agent behavior artifacts  | ![Python](https://img.shields.io/badge/-Python-58a6ff?style=flat-square) | ![Stars](https://img.shields.io/github/stars/llmhq-hub/releaseops?style=flat-square&color=58a6ff) | ![Forks](https://img.shields.io/github/forks/llmhq-hub/releaseops?style=flat-square&color=58a6ff) |
+| [**promptops**](https://github.com/llmhq-hub/promptops) | Git-native prompt management and testing for production LLM workflows | ![Python](https://img.shields.io/badge/-Python-58a6ff?style=flat-square) | ![Stars](https://img.shields.io/github/stars/llmhq-hub/promptops?style=flat-square&color=58a6ff) | ![Forks](https://img.shields.io/github/forks/llmhq-hub/promptops?style=flat-square&color=58a6ff) |
+| [**releaseops**](https://github.com/llmhq-hub/releaseops) | Release engineering for AI behavior — bundle, promote, evaluate agent artifacts | ![Python](https://img.shields.io/badge/-Python-58a6ff?style=flat-square) | ![Stars](https://img.shields.io/github/stars/llmhq-hub/releaseops?style=flat-square&color=58a6ff) | ![Forks](https://img.shields.io/github/forks/llmhq-hub/releaseops?style=flat-square&color=58a6ff) |
 
 </div>
 
@@ -379,7 +350,7 @@ open_to_work: true
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>
-  <strong>Last updated:</strong> March 02, 2026 11:11 UTC<br>
+  <strong>Last updated:</strong> March 02, 2026 11:20 UTC<br>
   Built with Python & Jinja2 | Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
