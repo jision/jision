@@ -43,7 +43,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"The best time to refactor was yesterday. The second best time is now."*
+> *"Stop picking frameworks, start classifying workflows."*
 
 </td>
 <td width="50%" valign="top">
@@ -244,19 +244,13 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>10 hours ago</sub></td>
-</tr>
-<tr>
-  <td align="center">📌</td>
-  <td>Pushed to `main`</td>
-  <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
   <td><sub>11 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>15 hours ago</sub></td>
+  <td><sub>12 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -265,10 +259,16 @@ open_to_work: true
   <td><sub>16 hours ago</sub></td>
 </tr>
 <tr>
+  <td align="center">📌</td>
+  <td>Pushed to `main`</td>
+  <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
+  <td><sub>17 hours ago</sub></td>
+</tr>
+<tr>
   <td align="center">🌱</td>
   <td>Created branch `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>17 hours ago</sub></td>
+  <td><sub>18 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -385,7 +385,7 @@ open_to_work: true
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>
-  <strong>Last updated:</strong> March 02, 2026 22:22 UTC<br>
+  <strong>Last updated:</strong> March 02, 2026 23:20 UTC<br>
   Built with Python & Jinja2 | Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
