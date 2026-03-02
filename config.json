@@ -1,0 +1,98 @@
+{
+  "tagline": "Software Architect | LLMOps & AI Engineering | Data Platform Builder",
+  "current_focus": "Building production-grade LLM tooling and agentic AI systems",
+
+  "status": {
+    "working_on": "PromptOps & ReleaseOps — shipping AI behavior with confidence",
+    "learning": "Agentic AI patterns, MCP protocol, and Rust for systems programming",
+    "ask_me_about": "LLMOps, AI agents, data pipelines, Spark, cloud architecture, prompt engineering",
+    "collaborating_on": "Open-source AI tooling at llmhq-hub",
+    "mood": "Shipping code and breaking limits"
+  },
+
+  "thoughts": [
+    "We solved release engineering for code twenty years ago. We forgot to solve it for AI.",
+    "The best architecture is the one you don't notice.",
+    "Stop picking frameworks, start classifying workflows.",
+    "Your prompts deserve the same respect as your code.",
+    "Complexity is the enemy of reliability.",
+    "The best time to refactor was yesterday. The second best time is now."
+  ],
+
+  "fun_facts": [
+    "I debug with coffee and curiosity",
+    "I've been on GitHub since 2013 — seen frameworks rise and fall",
+    "I built a JSON editor in pure Python that works offline",
+    "I automate everything — including this profile",
+    "I write on Medium about the things that break in production"
+  ],
+
+  "featured_projects": [
+    {
+      "owner": "llmhq-hub",
+      "name": "promptops",
+      "description": "Git-native prompt management and testing for production LLM workflows",
+      "tech": "Python"
+    },
+    {
+      "owner": "llmhq-hub",
+      "name": "releaseops",
+      "description": "Release engineering for AI behavior — bundle, promote, evaluate agent artifacts",
+      "tech": "Python"
+    }
+  ],
+
+  "skills": {
+    "languages": [
+      {"name": "Python", "logo": "python"},
+      {"name": "JavaScript", "logo": "javascript"},
+      {"name": "TypeScript", "logo": "typescript"},
+      {"name": "PHP", "logo": "php"},
+      {"name": "Go", "logo": "go"},
+      {"name": "Dart", "logo": "dart"}
+    ],
+    "ai_and_data": [
+      {"name": "LangChain", "logo": "langchain"},
+      {"name": "Apache Spark", "logo": "apachespark"},
+      {"name": "OpenAI", "logo": "openai"},
+      {"name": "Anthropic", "logo": "anthropic"},
+      {"name": "Jupyter", "logo": "jupyter"}
+    ],
+    "cloud": [
+      {"name": "AWS", "logo": "amazonwebservices"},
+      {"name": "Docker", "logo": "docker"},
+      {"name": "Kubernetes", "logo": "kubernetes"},
+      {"name": "Terraform", "logo": "terraform"},
+      {"name": "GitHub Actions", "logo": "githubactions"}
+    ],
+    "data": [
+      {"name": "PostgreSQL", "logo": "postgresql"},
+      {"name": "MongoDB", "logo": "mongodb"},
+      {"name": "Redis", "logo": "redis"},
+      {"name": "Elasticsearch", "logo": "elasticsearch"}
+    ],
+    "tools": [
+      {"name": "Git", "logo": "git"},
+      {"name": "Linux", "logo": "linux"},
+      {"name": "FastAPI", "logo": "fastapi"},
+      {"name": "Laravel", "logo": "laravel"},
+      {"name": "React", "logo": "react"},
+      {"name": "Flutter", "logo": "flutter"}
+    ]
+  },
+
+  "social": {
+    "medium": "jision",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+
+  "theme": {
+    "accent": "58a6ff",
+    "bg": "0d1117",
+    "bg_secondary": "161b22",
+    "text": "c9d1d9",
+    "border": "30363d"
+  }
+}

@@ -1,0 +1,80 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:       # Manual trigger
+  push:
+    branches: [main]
+    paths:
+      - 'templates/**'
+      - 'scripts/**'
+      - 'config.json'
+      - 'requirements.txt'
+
+jobs:
+  # Job 1: Generate snake contribution animation
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snake-svgs
+          path: dist/
+
+  # Job 2: Update README and commit everything
+  update-readme:
+    runs-on: ubuntu-latest
+    needs: generate-snake
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: jision
+        run: python scripts/update_readme.py
+
+      - name: Download snake SVGs
+        uses: actions/download-artifact@v4
+        with:
+          name: snake-svgs
+          path: dist/
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Ensure output branch exists for snake SVGs
+          mkdir -p output
+          cp dist/*.svg output/ 2>/dev/null || true
+
+          git add README.md output/ 2>/dev/null || true
+          git diff --cached --quiet || {
+            git commit -m "docs: auto-update profile README [skip ci]"
+            git push
+          }
