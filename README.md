@@ -43,7 +43,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"Stop picking frameworks, start classifying workflows."*
+> *"Your prompts deserve the same respect as your code."*
 
 </td>
 <td width="50%" valign="top">
@@ -194,7 +194,7 @@ open_to_work: true
 
 <img src="https://img.shields.io/badge/Public_Repos-46-58a6ff?style=flat-square&logo=github&logoColor=white" alt="Repos">
 <img src="https://img.shields.io/github/followers/jision?label=Followers&style=flat-square&logo=github&logoColor=white&color=58a6ff" alt="Followers">
-<img src="https://img.shields.io/badge/Following-6-58a6ff?style=flat-square&logo=github&logoColor=white" alt="Following">
+<img src="https://img.shields.io/badge/Following-7-58a6ff?style=flat-square&logo=github&logoColor=white" alt="Following">
 
 </div>
 
@@ -241,6 +241,30 @@ open_to_work: true
 <table>
 <tr><th>🎯</th><th>Activity</th><th>Repository</th><th>When</th></tr>
 <tr>
+  <td align="center">🔀</td>
+  <td>Merged PR #8</td>
+  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
+  <td><sub>12 minutes ago</sub></td>
+</tr>
+<tr>
+  <td align="center">📌</td>
+  <td>Pushed to `main`</td>
+  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
+  <td><sub>12 minutes ago</sub></td>
+</tr>
+<tr>
+  <td align="center">🔀</td>
+  <td>Opened PR #8</td>
+  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
+  <td><sub>12 minutes ago</sub></td>
+</tr>
+<tr>
+  <td align="center">📌</td>
+  <td>Pushed to `comprehensive-coverage`</td>
+  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
+  <td><sub>13 minutes ago</sub></td>
+</tr>
+<tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
@@ -274,31 +298,7 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>3 days ago</sub></td>
-</tr>
-<tr>
-  <td align="center">🔀</td>
-  <td>Merged PR #7</td>
-  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>3 days ago</sub></td>
-</tr>
-<tr>
-  <td align="center">🔀</td>
-  <td>Opened PR #7</td>
-  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>3 days ago</sub></td>
-</tr>
-<tr>
-  <td align="center">📌</td>
-  <td>Pushed to `comprehensive-coverage`</td>
-  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>3 days ago</sub></td>
-</tr>
-<tr>
-  <td align="center">📌</td>
-  <td>Pushed to `main`</td>
-  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>3 days ago</sub></td>
+  <td><sub>4 days ago</sub></td>
 </tr>
 </table>
 
@@ -385,7 +385,7 @@ open_to_work: true
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>
-  <strong>Last updated:</strong> March 05, 2026 11:30 UTC<br>
+  <strong>Last updated:</strong> March 05, 2026 12:46 UTC<br>
   Built with Python & Jinja2 | Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
