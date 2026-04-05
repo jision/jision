@@ -238,33 +238,7 @@ open_to_work: true
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning.png" width="30"> &nbsp;Recent Activity
 
-<table>
-<tr><th>🎯</th><th>Activity</th><th>Repository</th><th>When</th></tr>
-<tr>
-  <td align="center">📌</td>
-  <td>Pushed to `main`</td>
-  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>1 month ago</sub></td>
-</tr>
-<tr>
-  <td align="center">🔀</td>
-  <td>Merged PR #9</td>
-  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>1 month ago</sub></td>
-</tr>
-<tr>
-  <td align="center">🔀</td>
-  <td>Opened PR #9</td>
-  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>1 month ago</sub></td>
-</tr>
-<tr>
-  <td align="center">📌</td>
-  <td>Pushed to `comprehensive-coverage`</td>
-  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>1 month ago</sub></td>
-</tr>
-</table>
+<p align="center"><em>No recent activity to display.</em></p>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
@@ -349,7 +323,7 @@ open_to_work: true
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>
-  <strong>Last updated:</strong> April 05, 2026 11:25 UTC<br>
+  <strong>Last updated:</strong> April 05, 2026 12:44 UTC<br>
   Built with Python & Jinja2 | Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
