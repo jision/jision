@@ -43,7 +43,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"The best time to refactor was yesterday. The second best time is now."*
+> *"Complexity is the enemy of reliability."*
 
 </td>
 <td width="50%" valign="top">
@@ -194,7 +194,7 @@ open_to_work: true
 
 <img src="https://img.shields.io/badge/Public_Repos-46-58a6ff?style=flat-square&logo=github&logoColor=white" alt="Repos">
 <img src="https://img.shields.io/github/followers/jision?label=Followers&style=flat-square&logo=github&logoColor=white&color=58a6ff" alt="Followers">
-<img src="https://img.shields.io/badge/Following-7-58a6ff?style=flat-square&logo=github&logoColor=white" alt="Following">
+<img src="https://img.shields.io/badge/Following-6-58a6ff?style=flat-square&logo=github&logoColor=white" alt="Following">
 
 </div>
 
@@ -323,7 +323,7 @@ open_to_work: true
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>
-  <strong>Last updated:</strong> April 15, 2026 20:00 UTC<br>
+  <strong>Last updated:</strong> April 15, 2026 21:00 UTC<br>
   Built with Python & Jinja2 | Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
