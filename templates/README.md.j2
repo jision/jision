@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:{{ config.theme.bg }},50:{{ config.theme.bg_secondary }},100:{{ config.theme.border }}&height=230&section=header&text={{ (profile.name or username) | urlencode }}&fontSize=48&fontColor={{ config.theme.accent }}&animation=fadeIn&fontAlignY=32&desc={{ config.tagline | urlencode }}&descSize=17&descColor={{ config.theme.text }}&descAlignY=52" width="100%" alt="Header" />
+# {{ profile.name or username }}
+
+### {{ config.tagline }}
 
 <br>
 
@@ -274,11 +275,11 @@ repos: {{ profile.public_repos }}
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:{{ config.theme.bg }},50:{{ config.theme.bg_secondary }},100:{{ config.theme.border }}&height=120&section=footer" width="100%" alt="Footer" />
+---
 
 <sub>
   <strong>Last updated:</strong> {{ updated_at }}<br>
-  Built with Python &amp; Jinja2 | Auto-updated by <a href="https://github.com/{{ username }}/{{ username }}/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
+  Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/{{ username }}/{{ username }}/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
 </div>
