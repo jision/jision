@@ -22,7 +22,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"> &nbsp;Currently Building
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"> &nbsp;Currently Building
 
 <div align="center">
 
@@ -64,7 +64,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"Your prompts deserve the same respect as your code."*
+> *"Stop picking frameworks, start classifying workflows."*
 
 </td>
 <td width="50%" valign="top">
@@ -209,10 +209,10 @@ open_to_work: true
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning.png" width="30"> &nbsp;Recent Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30"> &nbsp;Recent Activity
 
 <details>
-<summary>&nbsp;<b>Show last 3 events</b>&nbsp; <sup>(click to expand)</sup></summary>
+<summary>&nbsp;<b>Show last 4 events</b>&nbsp; <sup>(click to expand)</sup></summary>
 <br>
 
 <table>
@@ -226,6 +226,12 @@ open_to_work: true
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
+  <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
+  <td><sub>6 minutes ago</sub></td>
+</tr>
+<tr>
+  <td align="center">📌</td>
+  <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
   <td><sub>17 hours ago</sub></td>
 </tr>
@@ -233,7 +239,7 @@ open_to_work: true
   <td align="center">⭐</td>
   <td>Starred</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>17 hours ago</sub></td>
+  <td><sub>18 hours ago</sub></td>
 </tr>
 </table>
 
@@ -306,7 +312,7 @@ open_to_work: true
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>
-  <strong>Last updated:</strong> April 19, 2026 01:20 UTC<br>
+  <strong>Last updated:</strong> April 19, 2026 01:26 UTC<br>
   Built with Python &amp; Jinja2 | Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
