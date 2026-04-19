@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=230&section=header&text=prasenjit%20chowdhury&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=Data%20%26%20AI%20Architect%20%C2%B7%20Building%20Production-Grade%20LLM%20Tooling&descSize=17&descColor=c9d1d9&descAlignY=52" width="100%" alt="Header" />
+# prasenjit chowdhury
+
+### Data & AI Architect · Building Production-Grade LLM Tooling
 
 <br>
 
@@ -70,7 +71,7 @@ open_to_work: true
 <td width="50%" valign="top">
 
 **`Working on`** &nbsp; PromptOps — shipping AI behavior with the same rigor as code
-**`Learning`** &nbsp;&nbsp;&nbsp;&nbsp; Agentic AI patterns, MCP protocol, and Rust for systems programming
+**`Learning`** &nbsp;&nbsp;&nbsp;&nbsp; Agentic AI patterns and the MCP protocol
 **`Ask me`** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LLMOps, AI agents, data platforms, lakehouse architecture, prompt engineering
 **`Collab on`** &nbsp;&nbsp;&nbsp; Open-source AI tooling at llmhq-hub
 
@@ -212,7 +213,7 @@ open_to_work: true
 ## ⚡ &nbsp;Recent Activity
 
 <details>
-<summary>&nbsp;<b>Show last 5 events</b>&nbsp; <sup>(click to expand)</sup></summary>
+<summary>&nbsp;<b>Show last 6 events</b>&nbsp; <sup>(click to expand)</sup></summary>
 <br>
 
 <table>
@@ -227,19 +228,25 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>3 minutes ago</sub></td>
+  <td><sub>14 minutes ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>9 minutes ago</sub></td>
+  <td><sub>17 minutes ago</sub></td>
+</tr>
+<tr>
+  <td align="center">📌</td>
+  <td>Pushed to `main`</td>
+  <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
+  <td><sub>23 minutes ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>17 hours ago</sub></td>
+  <td><sub>18 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">⭐</td>
@@ -315,11 +322,11 @@ open_to_work: true
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" alt="Footer" />
+---
 
 <sub>
-  <strong>Last updated:</strong> April 19, 2026 01:30 UTC<br>
-  Built with Python &amp; Jinja2 | Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
+  <strong>Last updated:</strong> April 19, 2026 01:44 UTC<br>
+  Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
 </div>
