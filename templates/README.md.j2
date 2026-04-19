@@ -3,11 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:{{ config.theme.bg }},50:{{ config.theme.bg_secondary }},100:{{ config.theme.border }}&height=230&section=header&text={{ (profile.name or username) | urlencode }}&fontSize=48&fontColor={{ config.theme.accent }}&animation=fadeIn&fontAlignY=32&desc={{ config.tagline | urlencode }}&descSize=17&descColor={{ config.theme.text }}&descAlignY=52" width="100%" alt="Header" />
 
-<!-- Typing Animation -->
-<a href="https://github.com/{{ username }}">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color={{ config.theme.accent | upper }}&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=55&lines={{ config.current_focus | urlencode }};{{ config.status.mood | urlencode }}" alt="Typing SVG" />
-</a>
-
 <br>
 
 <!-- Profile Badges Row -->
@@ -34,7 +29,33 @@
 
 </div>
 
-<br>
+{% if config.flagship %}
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"> &nbsp;Currently Building
+
+<div align="center">
+
+<a href="{{ config.flagship.url }}">
+  <img src="https://img.shields.io/badge/{{ config.flagship.name | replace(' ', '_') }}-{{ config.theme.accent }}?style=for-the-badge&logo=github&logoColor=white&labelColor={{ config.theme.bg_secondary }}" alt="{{ config.flagship.name }}" height="34">
+</a>
+
+<h3>{{ config.flagship.tagline }}</h3>
+
+<blockquote>
+<em>"{{ config.flagship.why }}"</em>
+</blockquote>
+
+<p>
+{% for tech in config.flagship.stack %}
+<img src="https://img.shields.io/badge/{{ tech | replace(' ', '_') }}-{{ config.theme.bg_secondary }}?style=flat-square&logoColor={{ config.theme.accent }}" alt="{{ tech }}" />
+{% endfor %}
+</p>
+
+<sub><strong>Status:</strong> {{ config.flagship.status }} &nbsp;·&nbsp; <a href="{{ config.flagship.url }}">View on GitHub &rarr;</a></sub>
+
+</div>
+{% endif %}
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
@@ -46,7 +67,7 @@
 
 ```yaml
 name: {{ profile.name or username }}
-role: {{ profile.bio or "Software Architect" }}
+role: Data & AI Architect
 from: GitHub since {{ profile.created_at[:4] if profile.created_at else "N/A" }}
 repos: {{ profile.public_repos }}
 {% if profile.hireable %}open_to_work: true
@@ -90,24 +111,11 @@ repos: {{ profile.public_repos }}
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"> &nbsp;Tech Stack
 
-{% if config.skills.languages %}
+{% if config.skills.ai_engineering %}
 <div align="center">
-<h4>Languages</h4>
+<h4>AI Engineering</h4>
 
-{% for skill in config.skills.languages %}
-<a href="#">
-  <img src="https://img.shields.io/badge/{{ skill.name }}-{{ config.theme.bg }}?style=for-the-badge&logo={{ skill.logo }}&logoColor={{ config.theme.accent }}" alt="{{ skill.name }}">
-</a>
-{% endfor %}
-</div>
-<br>
-{% endif %}
-
-{% if config.skills.ai_and_data %}
-<div align="center">
-<h4>AI & Data</h4>
-
-{% for skill in config.skills.ai_and_data %}
+{% for skill in config.skills.ai_engineering %}
 <a href="#">
   <img src="https://img.shields.io/badge/{{ skill.name | replace(' ', '_') }}-{{ config.theme.bg }}?style=for-the-badge&logo={{ skill.logo }}&logoColor={{ config.theme.accent }}" alt="{{ skill.name }}">
 </a>
@@ -116,11 +124,11 @@ repos: {{ profile.public_repos }}
 <br>
 {% endif %}
 
-{% if config.skills.cloud %}
+{% if config.skills.data_platform %}
 <div align="center">
-<h4>Cloud & DevOps</h4>
+<h4>Data Platform</h4>
 
-{% for skill in config.skills.cloud %}
+{% for skill in config.skills.data_platform %}
 <a href="#">
   <img src="https://img.shields.io/badge/{{ skill.name | replace(' ', '_') }}-{{ config.theme.bg }}?style=for-the-badge&logo={{ skill.logo }}&logoColor={{ config.theme.accent }}" alt="{{ skill.name }}">
 </a>
@@ -129,28 +137,31 @@ repos: {{ profile.public_repos }}
 <br>
 {% endif %}
 
-{% if config.skills.data %}
+{% if config.skills.cloud_infra %}
 <div align="center">
-<h4>Data & Storage</h4>
+<h4>Cloud &amp; Infrastructure</h4>
 
-{% for skill in config.skills.data %}
+{% for skill in config.skills.cloud_infra %}
 <a href="#">
-  <img src="https://img.shields.io/badge/{{ skill.name }}-{{ config.theme.bg }}?style=for-the-badge&logo={{ skill.logo }}&logoColor={{ config.theme.accent }}" alt="{{ skill.name }}">
+  <img src="https://img.shields.io/badge/{{ skill.name | replace(' ', '_') }}-{{ config.theme.bg }}?style=for-the-badge&logo={{ skill.logo }}&logoColor={{ config.theme.accent }}" alt="{{ skill.name }}">
 </a>
 {% endfor %}
 </div>
-<br>
 {% endif %}
 
-{% if config.skills.tools %}
-<div align="center">
-<h4>Frameworks & Tools</h4>
+{% if featured_projects %}
+<!-- ═══════════════════════════════════════════════════════ -->
 
-{% for skill in config.skills.tools %}
-<a href="#">
-  <img src="https://img.shields.io/badge/{{ skill.name }}-{{ config.theme.bg }}?style=for-the-badge&logo={{ skill.logo }}&logoColor={{ config.theme.accent }}" alt="{{ skill.name }}">
-</a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30"> &nbsp;Featured Projects
+
+<div align="center">
+
+| Project | Description | Language | Stars | Forks |
+|---------|-------------|----------|-------|-------|
+{% for project in featured_projects %}
+| [**{{ project.name }}**]({{ project.url }}) | {{ project.description }} | ![{{ project.language or project.tech }}](https://img.shields.io/badge/-{{ (project.language or project.tech) | replace(' ', '_') }}-{{ config.theme.accent }}?style=flat-square) | ![Stars](https://img.shields.io/github/stars/{{ project.full_name }}?style=flat-square&color={{ config.theme.accent }}) | ![Forks](https://img.shields.io/github/forks/{{ project.full_name }}?style=flat-square&color={{ config.theme.accent }}) |
 {% endfor %}
+
 </div>
 {% endif %}
 
@@ -166,28 +177,10 @@ repos: {{ profile.public_repos }}
 
 </div>
 
-{% if top_languages %}
-<div align="center">
-<h4>Top Languages (by repo bytes)</h4>
-
-{% for lang in top_languages %}
-<img src="https://img.shields.io/badge/{{ lang.name | replace(' ', '_') }}-{{ lang.percent }}%25-{{ config.theme.accent }}?style=flat-square" alt="{{ lang.name }}">
-{% endfor %}
-
-</div>
-{% endif %}
-
 <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user={{ username }}&theme=github-dark-blue&hide_border=true&background={{ config.theme.bg }}&ring={{ config.theme.accent }}&fire={{ config.theme.accent }}&currStreakLabel={{ config.theme.accent }}&sideLabels={{ config.theme.text }}&dates={{ config.theme.text }}80" alt="GitHub Streak" width="55%">
-</div>
-
-<br>
-
-<!-- Contribution Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={{ username }}&theme=github-compact&hide_border=true&bg_color={{ config.theme.bg }}&color={{ config.theme.accent }}&line={{ config.theme.accent }}&point={{ config.theme.text }}&area=true&area_color={{ config.theme.bg_secondary }}" alt="Activity Graph" width="95%">
 </div>
 
 <br>
@@ -201,11 +194,15 @@ repos: {{ profile.public_repos }}
   </picture>
 </div>
 
+{% if events %}
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning.png" width="30"> &nbsp;Recent Activity
 
-{% if events %}
+<details>
+<summary>&nbsp;<b>Show last {{ events | length }} events</b>&nbsp; <sup>(click to expand)</sup></summary>
+<br>
+
 <table>
 <tr><th>🎯</th><th>Activity</th><th>Repository</th><th>When</th></tr>
 {% for event in events %}
@@ -217,8 +214,8 @@ repos: {{ profile.public_repos }}
 </tr>
 {% endfor %}
 </table>
-{% else %}
-<p align="center"><em>No recent activity to display.</em></p>
+
+</details>
 {% endif %}
 
 {% if medium_posts %}
@@ -246,22 +243,6 @@ repos: {{ profile.public_repos }}
 {% endfor %}
 
 </details>
-{% endif %}
-
-{% if featured_projects %}
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30"> &nbsp;Featured Projects
-
-<div align="center">
-
-| Project | Description | Language | Stars | Forks |
-|---------|-------------|----------|-------|-------|
-{% for project in featured_projects %}
-| [**{{ project.name }}**]({{ project.url }}) | {{ project.description }} | ![{{ project.language or project.tech }}](https://img.shields.io/badge/-{{ (project.language or project.tech) | replace(' ', '_') }}-{{ config.theme.accent }}?style=flat-square) | ![Stars](https://img.shields.io/github/stars/{{ project.full_name }}?style=flat-square&color={{ config.theme.accent }}) | ![Forks](https://img.shields.io/github/forks/{{ project.full_name }}?style=flat-square&color={{ config.theme.accent }}) |
-{% endfor %}
-
-</div>
 {% endif %}
 
 {% if linkedin %}
@@ -293,14 +274,11 @@ repos: {{ profile.public_repos }}
 
 <div align="center">
 
-<!-- Spotify / Now Playing placeholder -->
-<!-- Add: <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re&bar_color={{ config.theme.accent }}" /> -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:{{ config.theme.bg }},50:{{ config.theme.bg_secondary }},100:{{ config.theme.border }}&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>
   <strong>Last updated:</strong> {{ updated_at }}<br>
-  Built with Python & Jinja2 | Auto-updated by <a href="https://github.com/{{ username }}/{{ username }}/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
+  Built with Python &amp; Jinja2 | Auto-updated by <a href="https://github.com/{{ username }}/{{ username }}/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
 </div>

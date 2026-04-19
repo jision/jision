@@ -1,13 +1,24 @@
 {
-  "tagline": "Software Architect | LLMOps & AI Engineering | Data Platform Builder",
-  "current_focus": "Building production-grade LLM tooling and agentic AI systems",
+  "tagline": "Data & AI Architect · Building Production-Grade LLM Tooling",
+  "current_focus": "Building PromptOps — Git-native prompt management for production LLMs",
 
   "status": {
-    "working_on": "PromptOps & ReleaseOps — shipping AI behavior with confidence",
+    "working_on": "PromptOps — shipping AI behavior with the same rigor as code",
     "learning": "Agentic AI patterns, MCP protocol, and Rust for systems programming",
-    "ask_me_about": "LLMOps, AI agents, data pipelines, Spark, cloud architecture, prompt engineering",
+    "ask_me_about": "LLMOps, AI agents, data platforms, lakehouse architecture, prompt engineering",
     "collaborating_on": "Open-source AI tooling at llmhq-hub",
     "mood": "Shipping code and breaking limits"
+  },
+
+  "flagship": {
+    "name": "PromptOps",
+    "tagline": "Git-native prompt management and testing for production LLM workflows",
+    "why": "We solved release engineering for code twenty years ago. We forgot to solve it for AI.",
+    "status": "Active development · open-source",
+    "stack": ["Python", "FastAPI", "LangChain", "OpenAI", "Anthropic"],
+    "owner": "llmhq-hub",
+    "repo": "promptops",
+    "url": "https://github.com/llmhq-hub/promptops"
   },
 
   "thoughts": [
@@ -43,43 +54,29 @@
   ],
 
   "skills": {
-    "languages": [
+    "ai_engineering": [
       {"name": "Python", "logo": "python"},
-      {"name": "JavaScript", "logo": "javascript"},
-      {"name": "TypeScript", "logo": "typescript"},
-      {"name": "PHP", "logo": "php"},
-      {"name": "Node.js", "logo": "nodedotjs"}
-    ],
-    "ai_and_data": [
       {"name": "LangChain", "logo": "langchain"},
       {"name": "LlamaIndex", "logo": "llamaindex"},
+      {"name": "OpenAI", "logo": "openai"},
+      {"name": "Anthropic", "logo": "anthropic"},
+      {"name": "FastAPI", "logo": "fastapi"}
+    ],
+    "data_platform": [
       {"name": "Apache Spark", "logo": "apachespark"},
       {"name": "Apache Kafka", "logo": "apachekafka"},
       {"name": "Apache Airflow", "logo": "apacheairflow"},
-      {"name": "OpenAI", "logo": "openai"},
-      {"name": "Anthropic", "logo": "anthropic"}
-    ],
-    "cloud": [
-      {"name": "AWS", "logo": "amazonwebservices"},
-      {"name": "Docker", "logo": "docker"},
-      {"name": "Kubernetes", "logo": "kubernetes"},
-      {"name": "Helm", "logo": "helm"},
-      {"name": "Terraform", "logo": "terraform"},
-      {"name": "GitHub Actions", "logo": "githubactions"}
-    ],
-    "data": [
       {"name": "Apache Iceberg", "logo": "apache"},
       {"name": "Trino", "logo": "trino"},
-      {"name": "Athena", "logo": "amazonwebservices"},
-      {"name": "PostgreSQL", "logo": "postgresql"},
-      {"name": "DynamoDB", "logo": "amazondynamodb"},
-      {"name": "Elasticsearch", "logo": "elasticsearch"}
+      {"name": "PostgreSQL", "logo": "postgresql"}
     ],
-    "tools": [
-      {"name": "Git", "logo": "git"},
-      {"name": "Linux", "logo": "linux"},
-      {"name": "FastAPI", "logo": "fastapi"},
-      {"name": "React", "logo": "react"}
+    "cloud_infra": [
+      {"name": "AWS", "logo": "amazonwebservices"},
+      {"name": "Kubernetes", "logo": "kubernetes"},
+      {"name": "Docker", "logo": "docker"},
+      {"name": "Terraform", "logo": "terraform"},
+      {"name": "Helm", "logo": "helm"},
+      {"name": "GitHub Actions", "logo": "githubactions"}
     ]
   },
 
@@ -91,14 +88,14 @@
   },
 
   "linkedin": {
-    "headline": "Software Architect | LLMOps & AI Engineering | Data Platform Builder",
-    "summary": "Building production-grade LLM tooling and agentic AI systems.",
+    "headline": "Data & AI Architect · Building Production-Grade LLM Tooling",
+    "summary": "Data & AI architect building open-source LLM tooling at llmhq-hub. Deep roots in data platforms, distributed systems, and cloud architecture.",
     "profile_url": "https://linkedin.com/in/prasenjitchowdhury",
     "highlights": [
       "LLMOps & AI Engineering",
       "Data Platform Architecture",
       "Cloud Infrastructure (AWS)",
-      "Open Source Contributor"
+      "Open Source Builder"
     ]
   },
 
