@@ -22,7 +22,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"> &nbsp;Currently Building
+## 🚀 &nbsp;Currently Building
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"> &nbsp;Who Am I
+## 👨‍💻 &nbsp;Who Am I
 
 <table>
 <tr>
@@ -64,7 +64,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"Stop picking frameworks, start classifying workflows."*
+> *"The best architecture is the one you don't notice."*
 
 </td>
 <td width="50%" valign="top">
@@ -92,7 +92,7 @@ open_to_work: true
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"> &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 <h4>AI Engineering</h4>
@@ -167,7 +167,7 @@ open_to_work: true
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30"> &nbsp;Featured Projects
+## 💎 &nbsp;Featured Projects
 
 <div align="center">
 
@@ -180,7 +180,7 @@ open_to_work: true
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"> &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -209,10 +209,10 @@ open_to_work: true
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30"> &nbsp;Recent Activity
+## ⚡ &nbsp;Recent Activity
 
 <details>
-<summary>&nbsp;<b>Show last 4 events</b>&nbsp; <sup>(click to expand)</sup></summary>
+<summary>&nbsp;<b>Show last 5 events</b>&nbsp; <sup>(click to expand)</sup></summary>
 <br>
 
 <table>
@@ -227,7 +227,13 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>6 minutes ago</sub></td>
+  <td><sub>3 minutes ago</sub></td>
+</tr>
+<tr>
+  <td align="center">📌</td>
+  <td>Pushed to `main`</td>
+  <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
+  <td><sub>9 minutes ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -247,7 +253,7 @@ open_to_work: true
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="30"> &nbsp;Latest from Medium
+## 📰 &nbsp;Latest from Medium
 
 <div align="center">
 
@@ -283,7 +289,7 @@ open_to_work: true
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"> &nbsp;LinkedIn
+## 💼 &nbsp;LinkedIn
 
 <div align="center">
 
@@ -312,7 +318,7 @@ open_to_work: true
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>
-  <strong>Last updated:</strong> April 19, 2026 01:26 UTC<br>
+  <strong>Last updated:</strong> April 19, 2026 01:30 UTC<br>
   Built with Python &amp; Jinja2 | Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
