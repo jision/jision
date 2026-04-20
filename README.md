@@ -65,7 +65,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"Your prompts deserve the same respect as your code."*
+> *"The best time to refactor was yesterday. The second best time is now."*
 
 </td>
 <td width="50%" valign="top">
@@ -246,13 +246,13 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>1 day ago</sub></td>
+  <td><sub>2 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">⭐</td>
   <td>Starred</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>1 day ago</sub></td>
+  <td><sub>2 days ago</sub></td>
 </tr>
 </table>
 
@@ -325,7 +325,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> April 20, 2026 05:35 UTC<br>
+  <strong>Last updated:</strong> April 20, 2026 07:57 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
