@@ -65,7 +65,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"The best time to refactor was yesterday. The second best time is now."*
+> *"Stop picking frameworks, start classifying workflows."*
 
 </td>
 <td width="50%" valign="top">
@@ -228,25 +228,25 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>6 days ago</sub></td>
+  <td><sub>7 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>6 days ago</sub></td>
+  <td><sub>7 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>6 days ago</sub></td>
+  <td><sub>7 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>6 days ago</sub></td>
+  <td><sub>7 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -331,7 +331,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> April 25, 2026 23:32 UTC<br>
+  <strong>Last updated:</strong> April 26, 2026 02:09 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
