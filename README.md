@@ -65,7 +65,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"Stop picking frameworks, start classifying workflows."*
+> *"Your prompts deserve the same respect as your code."*
 
 </td>
 <td width="50%" valign="top">
@@ -331,7 +331,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> May 02, 2026 21:34 UTC<br>
+  <strong>Last updated:</strong> May 02, 2026 22:34 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
