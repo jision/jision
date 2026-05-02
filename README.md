@@ -65,7 +65,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"We solved release engineering for code twenty years ago. We forgot to solve it for AI."*
+> *"Stop picking frameworks, start classifying workflows."*
 
 </td>
 <td width="50%" valign="top">
@@ -331,7 +331,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> May 02, 2026 05:31 UTC<br>
+  <strong>Last updated:</strong> May 02, 2026 07:24 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
