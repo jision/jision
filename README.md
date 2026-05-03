@@ -65,7 +65,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"We solved release engineering for code twenty years ago. We forgot to solve it for AI."*
+> *"Complexity is the enemy of reliability."*
 
 </td>
 <td width="50%" valign="top">
@@ -228,25 +228,25 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>13 days ago</sub></td>
+  <td><sub>14 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>13 days ago</sub></td>
+  <td><sub>14 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>13 days ago</sub></td>
+  <td><sub>14 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/jision"><code>jision/jision</code></a></td>
-  <td><sub>13 days ago</sub></td>
+  <td><sub>14 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -331,7 +331,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> May 02, 2026 23:37 UTC<br>
+  <strong>Last updated:</strong> May 03, 2026 02:25 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
