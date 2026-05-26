@@ -65,7 +65,7 @@ repos: 46
 open_to_work: true
 ```
 
-> *"The best architecture is the one you don't notice."*
+> *"Complexity is the enemy of reliability."*
 
 </td>
 <td width="50%" valign="top">
@@ -220,63 +220,63 @@ open_to_work: true
 <tr><th>🎯</th><th>Activity</th><th>Repository</th><th>When</th></tr>
 <tr>
   <td align="center">🔀</td>
+  <td>Opened PR #5</td>
+  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
+  <td><sub>2 hours ago</sub></td>
+</tr>
+<tr>
+  <td align="center">🌱</td>
+  <td>Created branch `feat/m4-deploys`</td>
+  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
+  <td><sub>2 hours ago</sub></td>
+</tr>
+<tr>
+  <td align="center">🔀</td>
   <td>Closed PR #4</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>7 minutes ago</sub></td>
+  <td><sub>2 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">💬</td>
   <td>Commented on #4</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>5 minutes ago</sub></td>
+  <td><sub>2 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `m2-version-fix`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>5 minutes ago</sub></td>
+  <td><sub>2 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #4</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>7 minutes ago</sub></td>
+  <td><sub>2 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `feat/m2b-migrate-tag-history`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>7 minutes ago</sub></td>
+  <td><sub>2 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #3</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>21 minutes ago</sub></td>
+  <td><sub>2 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `feat/m2-version-fix`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>22 minutes ago</sub></td>
+  <td><sub>2 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #2</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>59 minutes ago</sub></td>
-</tr>
-<tr>
-  <td align="center">🌱</td>
-  <td>Created branch `feat/m1-resolver`</td>
-  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>59 minutes ago</sub></td>
-</tr>
-<tr>
-  <td align="center">🌱</td>
-  <td>Created branch `release/v0.3.0`</td>
-  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>1 hour ago</sub></td>
+  <td><sub>3 hours ago</sub></td>
 </tr>
 </table>
 
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> May 26, 2026 15:53 UTC<br>
+  <strong>Last updated:</strong> May 26, 2026 18:21 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
