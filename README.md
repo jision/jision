@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"The best time to refactor was yesterday. The second best time is now."*
+> *"We solved release engineering for code twenty years ago. We forgot to solve it for AI."*
 
 </td>
 <td width="50%" valign="top">
@@ -222,61 +222,61 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
-  <td><sub>8 hours ago</sub></td>
+  <td><sub>12 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `main`</td>
   <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
-  <td><sub>8 hours ago</sub></td>
+  <td><sub>12 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>23 hours ago</sub></td>
+  <td><sub>1 day ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Merged PR #14</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>23 hours ago</sub></td>
+  <td><sub>1 day ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #14</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>23 hours ago</sub></td>
+  <td><sub>1 day ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `docs/badge-fix`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>23 hours ago</sub></td>
+  <td><sub>1 day ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>23 hours ago</sub></td>
+  <td><sub>1 day ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Merged PR #13</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>23 hours ago</sub></td>
+  <td><sub>1 day ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #13</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>23 hours ago</sub></td>
+  <td><sub>1 day ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `release/v0.3.3`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>23 hours ago</sub></td>
+  <td><sub>1 day ago</sub></td>
 </tr>
 </table>
 
@@ -288,20 +288,20 @@ open_to_work: true
 
 <div align="center">
 
-<a href="https://medium.com/@jision/the-tokenization-tax-why-your-non-english-users-pay-2-5x-more-for-the-same-answer-80500fe77317?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/0" alt="The Tokenization Tax: Why Your Non English Users Pay 2–5x More for the Same Answer" width="47%">
+<a href="https://medium.com/@jision/the-code-was-never-the-hard-part-five-pypi-lessons-from-shipping-promptops-b735e5ddec27?source=rss-d6eceb646d72------2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/0" alt="The Code Was Never the Hard Part: Five PyPI Lessons from Shipping PromptOps" width="47%">
 </a>
-&nbsp;<a href="https://medium.com/@jision/we-solved-release-engineering-for-code-twenty-years-ago-we-forgot-to-solve-it-for-ai-b3b043964d16?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/1" alt="We Solved Release Engineering for Code Twenty Years Ago. We Forgot to Solve It for AI." width="47%">
+&nbsp;<a href="https://medium.com/@jision/the-tokenization-tax-why-your-non-english-users-pay-2-5x-more-for-the-same-answer-80500fe77317?source=rss-d6eceb646d72------2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/1" alt="The Tokenization Tax: Why Your Non English Users Pay 2–5x More for the Same Answer" width="47%">
 </a>
-<br><br><a href="https://medium.com/@jision/the-hidden-utf-trap-in-data-pipelines-why-spark-fails-on-perfectly-fine-files-eeb8ac3ec8b1?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/2" alt="The Hidden UTF Trap in Data Pipelines: Why Spark Fails on Perfectly Fine Files" width="47%">
+<br><br><a href="https://medium.com/@jision/we-solved-release-engineering-for-code-twenty-years-ago-we-forgot-to-solve-it-for-ai-b3b043964d16?source=rss-d6eceb646d72------2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/2" alt="We Solved Release Engineering for Code Twenty Years Ago. We Forgot to Solve It for AI." width="47%">
 </a>
-&nbsp;<a href="https://medium.com/@jision/the-subtle-divide-when-ai-helps-vs-when-ai-manages-your-workflow-81f1210187bc?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/3" alt="The Subtle Divide: When AI ‘Helps’ vs. When AI ‘Manages’ Your Workflow" width="47%">
+&nbsp;<a href="https://medium.com/@jision/the-hidden-utf-trap-in-data-pipelines-why-spark-fails-on-perfectly-fine-files-eeb8ac3ec8b1?source=rss-d6eceb646d72------2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/3" alt="The Hidden UTF Trap in Data Pipelines: Why Spark Fails on Perfectly Fine Files" width="47%">
 </a>
-<br><br><a href="https://medium.com/@jision/stop-picking-frameworks-start-classifying-workflows-taxonomy-of-ai-agents-patterns-8ab304b37161?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/4" alt="Stop Picking Frameworks, Start Classifying Workflows-Taxonomy of AI Agents Patterns" width="47%">
+<br><br><a href="https://medium.com/@jision/the-subtle-divide-when-ai-helps-vs-when-ai-manages-your-workflow-81f1210187bc?source=rss-d6eceb646d72------2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/4" alt="The Subtle Divide: When AI ‘Helps’ vs. When AI ‘Manages’ Your Workflow" width="47%">
 </a>
 <br><br>
 </div>
@@ -310,11 +310,11 @@ open_to_work: true
 <summary>&nbsp;<b>All articles</b>&nbsp; <sup>(click to expand)</sup></summary>
 <br>
 
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Code Was Never the Hard Part: Five PyPI Lessons from Shipping PromptOps**](https://medium.com/@jision/the-code-was-never-the-hard-part-five-pypi-lessons-from-shipping-promptops-b735e5ddec27?source=rss-d6eceb646d72------2) | <sub>Wed, 10 Jun 2026 14:39:49 GMT</sub> |
 | <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Tokenization Tax: Why Your Non English Users Pay 2–5x More for the Same Answer**](https://medium.com/@jision/the-tokenization-tax-why-your-non-english-users-pay-2-5x-more-for-the-same-answer-80500fe77317?source=rss-d6eceb646d72------2) | <sub>Fri, 08 May 2026 03:42:36 GMT</sub> |
 | <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**We Solved Release Engineering for Code Twenty Years Ago. We Forgot to Solve It for AI.**](https://medium.com/@jision/we-solved-release-engineering-for-code-twenty-years-ago-we-forgot-to-solve-it-for-ai-b3b043964d16?source=rss-d6eceb646d72------2) | <sub>Sun, 01 Mar 2026 18:02:38 GMT</sub> |
 | <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Hidden UTF Trap in Data Pipelines: Why Spark Fails on Perfectly Fine Files**](https://medium.com/@jision/the-hidden-utf-trap-in-data-pipelines-why-spark-fails-on-perfectly-fine-files-eeb8ac3ec8b1?source=rss-d6eceb646d72------2) | <sub>Thu, 16 Oct 2025 04:37:08 GMT</sub> |
 | <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Subtle Divide: When AI ‘Helps’ vs. When AI ‘Manages’ Your Workflow**](https://medium.com/@jision/the-subtle-divide-when-ai-helps-vs-when-ai-manages-your-workflow-81f1210187bc?source=rss-d6eceb646d72------2) | <sub>Wed, 01 Oct 2025 13:30:32 GMT</sub> |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**Stop Picking Frameworks, Start Classifying Workflows-Taxonomy of AI Agents Patterns**](https://medium.com/@jision/stop-picking-frameworks-start-classifying-workflows-taxonomy-of-ai-agents-patterns-8ab304b37161?source=rss-d6eceb646d72------2) | <sub>Mon, 18 Aug 2025 07:53:20 GMT</sub> |
 
 </details>
 
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> June 10, 2026 12:50 UTC<br>
+  <strong>Last updated:</strong> June 10, 2026 16:30 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
