@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"Your prompts deserve the same respect as your code."*
+> *"The best time to refactor was yesterday. The second best time is now."*
 
 </td>
 <td width="50%" valign="top">
@@ -222,25 +222,25 @@ open_to_work: true
   <td align="center">🔀</td>
   <td>Merged PR #15</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>16 hours ago</sub></td>
+  <td><sub>18 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>16 hours ago</sub></td>
+  <td><sub>18 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #15</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>16 hours ago</sub></td>
+  <td><sub>18 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `release/v0.4.0`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>16 hours ago</sub></td>
+  <td><sub>18 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> June 13, 2026 19:16 UTC<br>
+  <strong>Last updated:</strong> June 13, 2026 21:08 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
