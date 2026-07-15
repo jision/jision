@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"Stop picking frameworks, start classifying workflows."*
+> *"The best architecture is the one you don't notice."*
 
 </td>
 <td width="50%" valign="top">
@@ -213,7 +213,7 @@ open_to_work: true
 ## ⚡ &nbsp;Recent Activity
 
 <details>
-<summary>&nbsp;<b>Show last 8 events</b>&nbsp; <sup>(click to expand)</sup></summary>
+<summary>&nbsp;<b>Show last 7 events</b>&nbsp; <sup>(click to expand)</sup></summary>
 <br>
 
 <table>
@@ -253,12 +253,6 @@ open_to_work: true
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
   <td><sub>19 days ago</sub></td>
-</tr>
-<tr>
-  <td align="center">📌</td>
-  <td>Pushed to `main`</td>
-  <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
-  <td><sub>1 month ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -337,7 +331,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> July 15, 2026 15:22 UTC<br>
+  <strong>Last updated:</strong> July 15, 2026 17:10 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
