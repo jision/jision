@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"The best time to refactor was yesterday. The second best time is now."*
+> *"Stop picking frameworks, start classifying workflows."*
 
 </td>
 <td width="50%" valign="top">
@@ -213,11 +213,17 @@ open_to_work: true
 ## ⚡ &nbsp;Recent Activity
 
 <details>
-<summary>&nbsp;<b>Show last 6 events</b>&nbsp; <sup>(click to expand)</sup></summary>
+<summary>&nbsp;<b>Show last 7 events</b>&nbsp; <sup>(click to expand)</sup></summary>
 <br>
 
 <table>
 <tr><th>🎯</th><th>Activity</th><th>Repository</th><th>When</th></tr>
+<tr>
+  <td align="center">📌</td>
+  <td>Pushed to `main`</td>
+  <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
+  <td><sub>1 hour ago</sub></td>
+</tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
@@ -240,7 +246,7 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
-  <td><sub>20 days ago</sub></td>
+  <td><sub>21 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -264,20 +270,20 @@ open_to_work: true
 
 <div align="center">
 
-<a href="https://medium.com/@jision/agentic-data-pipelines-reading-the-fine-print-on-self-healing-a54ea6d223b0?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/0" alt="Agentic Data Pipelines: Reading the Fine Print on Self-Healing" width="47%">
+<a href="https://medium.com/@jision/forward-deployed-engineering-is-real-most-of-what-companies-are-building-is-not-d6a87e852a7c?source=rss-d6eceb646d72------2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/0" alt="Forward Deployed Engineering Is Real. Most of What Companies Are Building Is Not." width="47%">
 </a>
-&nbsp;<a href="https://medium.com/@jision/the-code-was-never-the-hard-part-five-pypi-lessons-from-shipping-promptops-b735e5ddec27?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/1" alt="The Code Was Never the Hard Part: Five PyPI Lessons from Shipping PromptOps" width="47%">
+&nbsp;<a href="https://medium.com/@jision/agentic-data-pipelines-reading-the-fine-print-on-self-healing-a54ea6d223b0?source=rss-d6eceb646d72------2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/1" alt="Agentic Data Pipelines: Reading the Fine Print on Self-Healing" width="47%">
 </a>
-<br><br><a href="https://medium.com/@jision/the-tokenization-tax-why-your-non-english-users-pay-2-5x-more-for-the-same-answer-80500fe77317?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/2" alt="The Tokenization Tax: Why Your Non English Users Pay 2–5x More for the Same Answer" width="47%">
+<br><br><a href="https://medium.com/@jision/the-code-was-never-the-hard-part-five-pypi-lessons-from-shipping-promptops-b735e5ddec27?source=rss-d6eceb646d72------2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/2" alt="The Code Was Never the Hard Part: Five PyPI Lessons from Shipping PromptOps" width="47%">
 </a>
-&nbsp;<a href="https://medium.com/@jision/we-solved-release-engineering-for-code-twenty-years-ago-we-forgot-to-solve-it-for-ai-b3b043964d16?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/3" alt="We Solved Release Engineering for Code Twenty Years Ago. We Forgot to Solve It for AI." width="47%">
+&nbsp;<a href="https://medium.com/@jision/the-tokenization-tax-why-your-non-english-users-pay-2-5x-more-for-the-same-answer-80500fe77317?source=rss-d6eceb646d72------2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/3" alt="The Tokenization Tax: Why Your Non English Users Pay 2–5x More for the Same Answer" width="47%">
 </a>
-<br><br><a href="https://medium.com/@jision/the-hidden-utf-trap-in-data-pipelines-why-spark-fails-on-perfectly-fine-files-eeb8ac3ec8b1?source=rss-d6eceb646d72------2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/4" alt="The Hidden UTF Trap in Data Pipelines: Why Spark Fails on Perfectly Fine Files" width="47%">
+<br><br><a href="https://medium.com/@jision/we-solved-release-engineering-for-code-twenty-years-ago-we-forgot-to-solve-it-for-ai-b3b043964d16?source=rss-d6eceb646d72------2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jision/4" alt="We Solved Release Engineering for Code Twenty Years Ago. We Forgot to Solve It for AI." width="47%">
 </a>
 <br><br>
 </div>
@@ -286,11 +292,11 @@ open_to_work: true
 <summary>&nbsp;<b>All articles</b>&nbsp; <sup>(click to expand)</sup></summary>
 <br>
 
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**Forward Deployed Engineering Is Real. Most of What Companies Are Building Is Not.**](https://medium.com/@jision/forward-deployed-engineering-is-real-most-of-what-companies-are-building-is-not-d6a87e852a7c?source=rss-d6eceb646d72------2) | <sub>Sat, 18 Jul 2026 13:32:41 GMT</sub> |
 | <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**Agentic Data Pipelines: Reading the Fine Print on Self-Healing**](https://medium.com/@jision/agentic-data-pipelines-reading-the-fine-print-on-self-healing-a54ea6d223b0?source=rss-d6eceb646d72------2) | <sub>Sat, 11 Jul 2026 07:14:45 GMT</sub> |
 | <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Code Was Never the Hard Part: Five PyPI Lessons from Shipping PromptOps**](https://medium.com/@jision/the-code-was-never-the-hard-part-five-pypi-lessons-from-shipping-promptops-b735e5ddec27?source=rss-d6eceb646d72------2) | <sub>Wed, 10 Jun 2026 14:39:49 GMT</sub> |
 | <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Tokenization Tax: Why Your Non English Users Pay 2–5x More for the Same Answer**](https://medium.com/@jision/the-tokenization-tax-why-your-non-english-users-pay-2-5x-more-for-the-same-answer-80500fe77317?source=rss-d6eceb646d72------2) | <sub>Fri, 08 May 2026 03:42:36 GMT</sub> |
 | <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**We Solved Release Engineering for Code Twenty Years Ago. We Forgot to Solve It for AI.**](https://medium.com/@jision/we-solved-release-engineering-for-code-twenty-years-ago-we-forgot-to-solve-it-for-ai-b3b043964d16?source=rss-d6eceb646d72------2) | <sub>Sun, 01 Mar 2026 18:02:38 GMT</sub> |
-| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=medium&logoColor=white" alt="M"> | [**The Hidden UTF Trap in Data Pipelines: Why Spark Fails on Perfectly Fine Files**](https://medium.com/@jision/the-hidden-utf-trap-in-data-pipelines-why-spark-fails-on-perfectly-fine-files-eeb8ac3ec8b1?source=rss-d6eceb646d72------2) | <sub>Thu, 16 Oct 2025 04:37:08 GMT</sub> |
 
 </details>
 
@@ -325,7 +331,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> July 18, 2026 13:01 UTC<br>
+  <strong>Last updated:</strong> July 18, 2026 14:45 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
