@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"Your prompts deserve the same respect as your code."*
+> *"We solved release engineering for code twenty years ago. We forgot to solve it for AI."*
 
 </td>
 <td width="50%" valign="top">
@@ -213,64 +213,70 @@ open_to_work: true
 ## ⚡ &nbsp;Recent Activity
 
 <details>
-<summary>&nbsp;<b>Show last 9 events</b>&nbsp; <sup>(click to expand)</sup></summary>
+<summary>&nbsp;<b>Show last 10 events</b>&nbsp; <sup>(click to expand)</sup></summary>
 <br>
 
 <table>
 <tr><th>🎯</th><th>Activity</th><th>Repository</th><th>When</th></tr>
 <tr>
-  <td align="center">🔀</td>
-  <td>Merged PR #16</td>
-  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>9 minutes ago</sub></td>
-</tr>
-<tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>9 minutes ago</sub></td>
-</tr>
-<tr>
-  <td align="center">🔀</td>
-  <td>Opened PR #16</td>
-  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>19 minutes ago</sub></td>
+  <td><sub>1 hour ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
-  <td>Created branch `feat/e012-include-scan`</td>
+  <td>Created branch `docs/three-guides`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>27 minutes ago</sub></td>
+  <td><sub>1 hour ago</sub></td>
 </tr>
 <tr>
-  <td align="center">⭐</td>
-  <td>Starred</td>
-  <td><a href="https://github.com/beenuar/AiSOC"><code>beenuar/AiSOC</code></a></td>
-  <td><sub>4 days ago</sub></td>
+  <td align="center">🔀</td>
+  <td>Opened PR #20</td>
+  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
+  <td><sub>1 hour ago</sub></td>
 </tr>
 <tr>
-  <td align="center">📌</td>
-  <td>Pushed to `main`</td>
-  <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
-  <td><sub>10 days ago</sub></td>
+  <td align="center">🌱</td>
+  <td>Created branch `feat/ci-templates-and-examples`</td>
+  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
+  <td><sub>1 hour ago</sub></td>
 </tr>
 <tr>
-  <td align="center">📌</td>
-  <td>Pushed to `main`</td>
-  <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
-  <td><sub>20 days ago</sub></td>
-</tr>
-<tr>
-  <td align="center">📌</td>
-  <td>Pushed to `main`</td>
-  <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
-  <td><sub>25 days ago</sub></td>
+  <td align="center">🔀</td>
+  <td>Opened PR #19</td>
+  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
+  <td><sub>1 hour ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
-  <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
-  <td><sub>28 days ago</sub></td>
+  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
+  <td><sub>1 hour ago</sub></td>
+</tr>
+<tr>
+  <td align="center">🔀</td>
+  <td>Merged PR #18</td>
+  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
+  <td><sub>1 hour ago</sub></td>
+</tr>
+<tr>
+  <td align="center">🔀</td>
+  <td>Opened PR #18</td>
+  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
+  <td><sub>1 hour ago</sub></td>
+</tr>
+<tr>
+  <td align="center">🌱</td>
+  <td>Created branch `feat/doctor-and-history`</td>
+  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
+  <td><sub>1 hour ago</sub></td>
+</tr>
+<tr>
+  <td align="center">📌</td>
+  <td>Pushed to `main`</td>
+  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
+  <td><sub>2 hours ago</sub></td>
 </tr>
 </table>
 
@@ -343,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> July 28, 2026 13:50 UTC<br>
+  <strong>Last updated:</strong> July 28, 2026 16:01 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
