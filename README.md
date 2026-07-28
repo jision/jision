@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"Stop picking frameworks, start classifying workflows."*
+> *"The best time to refactor was yesterday. The second best time is now."*
 
 </td>
 <td width="50%" valign="top">
@@ -234,7 +234,7 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/jision/interview-labs"><code>jision/interview-labs</code></a></td>
-  <td><sub>19 days ago</sub></td>
+  <td><sub>20 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -319,7 +319,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> July 28, 2026 05:19 UTC<br>
+  <strong>Last updated:</strong> July 28, 2026 08:23 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
