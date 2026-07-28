@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"Stop picking frameworks, start classifying workflows."*
+> *"Your prompts deserve the same respect as your code."*
 
 </td>
 <td width="50%" valign="top">
@@ -222,61 +222,61 @@ open_to_work: true
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>5 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `docs/three-guides`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>5 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #20</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>5 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `feat/ci-templates-and-examples`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>5 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #19</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>5 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>6 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Merged PR #18</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>6 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #18</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>6 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `feat/doctor-and-history`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>6 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>4 hours ago</sub></td>
+  <td><sub>6 hours ago</sub></td>
 </tr>
 </table>
 
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> July 28, 2026 18:08 UTC<br>
+  <strong>Last updated:</strong> July 28, 2026 20:12 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
