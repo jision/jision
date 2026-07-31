@@ -222,61 +222,61 @@ open_to_work: true
   <td align="center">🔀</td>
   <td>Merged PR #26</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>1 hour ago</sub></td>
+  <td><sub>3 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>1 hour ago</sub></td>
+  <td><sub>3 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #26</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>1 hour ago</sub></td>
+  <td><sub>3 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `fix/readme-absolute-links`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>1 hour ago</sub></td>
+  <td><sub>3 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Merged PR #25</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>2 hours ago</sub></td>
+  <td><sub>4 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>2 hours ago</sub></td>
+  <td><sub>4 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #25</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>2 hours ago</sub></td>
+  <td><sub>4 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `release/0.5.0-changelog`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>2 hours ago</sub></td>
+  <td><sub>4 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>5 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Merged PR #24</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>3 hours ago</sub></td>
+  <td><sub>5 hours ago</sub></td>
 </tr>
 </table>
 
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> July 31, 2026 15:14 UTC<br>
+  <strong>Last updated:</strong> July 31, 2026 17:23 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
