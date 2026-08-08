@@ -240,7 +240,7 @@ open_to_work: true
   <td align="center">⭐</td>
   <td>Starred</td>
   <td><a href="https://github.com/acceldata-io/dc-manager"><code>acceldata-io/dc-manager</code></a></td>
-  <td><sub>5 days ago</sub></td>
+  <td><sub>6 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> August 08, 2026 03:19 UTC<br>
+  <strong>Last updated:</strong> August 08, 2026 04:50 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
