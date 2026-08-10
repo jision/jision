@@ -222,49 +222,49 @@ open_to_work: true
   <td align="center">🔀</td>
   <td>Merged PR #11</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>16 hours ago</sub></td>
+  <td><sub>17 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>16 hours ago</sub></td>
+  <td><sub>17 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #11</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>16 hours ago</sub></td>
+  <td><sub>17 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Closed PR #10</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>18 hours ago</sub></td>
+  <td><sub>19 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">💬</td>
   <td>Commented on #10</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>16 hours ago</sub></td>
+  <td><sub>17 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `site/promptops-0.6.0-v2`</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>16 hours ago</sub></td>
+  <td><sub>17 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #10</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>18 hours ago</sub></td>
+  <td><sub>19 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `site/promptops-0.6.0`</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>18 hours ago</sub></td>
+  <td><sub>19 hours ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> August 10, 2026 22:30 UTC<br>
+  <strong>Last updated:</strong> August 10, 2026 23:28 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
