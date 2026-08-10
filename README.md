@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"The best time to refactor was yesterday. The second best time is now."*
+> *"The best architecture is the one you don't notice."*
 
 </td>
 <td width="50%" valign="top">
@@ -220,15 +220,27 @@ open_to_work: true
 <tr><th>🎯</th><th>Activity</th><th>Repository</th><th>When</th></tr>
 <tr>
   <td align="center">🔀</td>
+  <td>Opened PR #10</td>
+  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
+  <td><sub>1 hour ago</sub></td>
+</tr>
+<tr>
+  <td align="center">🌱</td>
+  <td>Created branch `site/promptops-0.6.0`</td>
+  <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
+  <td><sub>1 hour ago</sub></td>
+</tr>
+<tr>
+  <td align="center">🔀</td>
   <td>Merged PR #27</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>18 minutes ago</sub></td>
+  <td><sub>1 hour ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>18 minutes ago</sub></td>
+  <td><sub>1 hour ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
@@ -252,7 +264,7 @@ open_to_work: true
   <td align="center">⭐</td>
   <td>Starred</td>
   <td><a href="https://github.com/acceldata-io/dc-manager"><code>acceldata-io/dc-manager</code></a></td>
-  <td><sub>7 days ago</sub></td>
+  <td><sub>8 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
@@ -263,18 +275,6 @@ open_to_work: true
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
-  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>9 days ago</sub></td>
-</tr>
-<tr>
-  <td align="center">🔀</td>
-  <td>Opened PR #26</td>
-  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>9 days ago</sub></td>
-</tr>
-<tr>
-  <td align="center">🌱</td>
-  <td>Created branch `fix/readme-absolute-links`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
   <td><sub>9 days ago</sub></td>
 </tr>
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> August 10, 2026 03:47 UTC<br>
+  <strong>Last updated:</strong> August 10, 2026 05:20 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
