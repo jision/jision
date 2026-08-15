@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"The best architecture is the one you don't notice."*
+> *"Your prompts deserve the same respect as your code."*
 
 </td>
 <td width="50%" valign="top">
@@ -222,19 +222,19 @@ open_to_work: true
   <td align="center">🔀</td>
   <td>Merged PR #11</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>4 days ago</sub></td>
+  <td><sub>5 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `main`</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>4 days ago</sub></td>
+  <td><sub>5 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
   <td>Opened PR #11</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>4 days ago</sub></td>
+  <td><sub>5 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
@@ -246,13 +246,13 @@ open_to_work: true
   <td align="center">💬</td>
   <td>Commented on #10</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>4 days ago</sub></td>
+  <td><sub>5 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `site/promptops-0.6.0-v2`</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>4 days ago</sub></td>
+  <td><sub>5 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> August 15, 2026 05:19 UTC<br>
+  <strong>Last updated:</strong> August 15, 2026 06:26 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
