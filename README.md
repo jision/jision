@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"We solved release engineering for code twenty years ago. We forgot to solve it for AI."*
+> *"Your prompts deserve the same respect as your code."*
 
 </td>
 <td width="50%" valign="top">
@@ -240,7 +240,7 @@ open_to_work: true
   <td align="center">🔀</td>
   <td>Closed PR #10</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>6 days ago</sub></td>
+  <td><sub>7 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">💬</td>
@@ -258,13 +258,13 @@ open_to_work: true
   <td align="center">🔀</td>
   <td>Opened PR #10</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>6 days ago</sub></td>
+  <td><sub>7 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">🌱</td>
   <td>Created branch `site/promptops-0.6.0`</td>
   <td><a href="https://github.com/llmhq-hub/llmhq-hub.github.io"><code>llmhq-hub/llmhq-hub.github.io</code></a></td>
-  <td><sub>6 days ago</sub></td>
+  <td><sub>7 days ago</sub></td>
 </tr>
 <tr>
   <td align="center">🔀</td>
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> August 17, 2026 03:43 UTC<br>
+  <strong>Last updated:</strong> August 17, 2026 04:34 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
