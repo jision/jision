@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"We solved release engineering for code twenty years ago. We forgot to solve it for AI."*
+> *"Complexity is the enemy of reliability."*
 
 </td>
 <td width="50%" valign="top">
@@ -349,7 +349,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> August 25, 2026 13:43 UTC<br>
+  <strong>Last updated:</strong> August 25, 2026 14:38 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
