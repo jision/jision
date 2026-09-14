@@ -222,7 +222,7 @@ open_to_work: true
   <td align="center">⭐</td>
   <td>Starred</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>19 days ago</sub></td>
+  <td><sub>20 days ago</sub></td>
 </tr>
 </table>
 
@@ -295,7 +295,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> September 14, 2026 17:26 UTC<br>
+  <strong>Last updated:</strong> September 14, 2026 21:18 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
