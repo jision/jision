@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"Your prompts deserve the same respect as your code."*
+> *"The best architecture is the one you don't notice."*
 
 </td>
 <td width="50%" valign="top">
@@ -295,7 +295,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> September 23, 2026 21:57 UTC<br>
+  <strong>Last updated:</strong> September 24, 2026 00:15 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
