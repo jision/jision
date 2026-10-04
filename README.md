@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"The best architecture is the one you don't notice."*
+> *"Stop picking frameworks, start classifying workflows."*
 
 </td>
 <td width="50%" valign="top">
@@ -276,7 +276,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> October 04, 2026 02:19 UTC<br>
+  <strong>Last updated:</strong> October 04, 2026 09:14 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
