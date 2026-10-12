@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"The best time to refactor was yesterday. The second best time is now."*
+> *"We solved release engineering for code twenty years ago. We forgot to solve it for AI."*
 
 </td>
 <td width="50%" valign="top">
@@ -319,7 +319,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> October 11, 2026 23:22 UTC<br>
+  <strong>Last updated:</strong> October 12, 2026 03:49 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
