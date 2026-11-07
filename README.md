@@ -65,7 +65,7 @@ repos: 47
 open_to_work: true
 ```
 
-> *"Your prompts deserve the same respect as your code."*
+> *"Complexity is the enemy of reliability."*
 
 </td>
 <td width="50%" valign="top">
@@ -213,7 +213,7 @@ open_to_work: true
 ## ⚡ &nbsp;Recent Activity
 
 <details>
-<summary>&nbsp;<b>Show last 3 events</b>&nbsp; <sup>(click to expand)</sup></summary>
+<summary>&nbsp;<b>Show last 2 events</b>&nbsp; <sup>(click to expand)</sup></summary>
 <br>
 
 <table>
@@ -227,12 +227,6 @@ open_to_work: true
 <tr>
   <td align="center">📌</td>
   <td>Pushed to `0.6.1`</td>
-  <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
-  <td><sub>1 month ago</sub></td>
-</tr>
-<tr>
-  <td align="center">🌱</td>
-  <td>Created branch `release/0.6.1`</td>
   <td><a href="https://github.com/llmhq-hub/promptops"><code>llmhq-hub/promptops</code></a></td>
   <td><sub>1 month ago</sub></td>
 </tr>
@@ -307,7 +301,7 @@ open_to_work: true
 ---
 
 <sub>
-  <strong>Last updated:</strong> November 06, 2026 21:12 UTC<br>
+  <strong>Last updated:</strong> November 07, 2026 01:30 UTC<br>
   Built with Python &amp; Jinja2 &middot; Auto-updated by <a href="https://github.com/jision/jision/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a> every hour
 </sub>
 
